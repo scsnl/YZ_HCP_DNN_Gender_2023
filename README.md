@@ -7,7 +7,7 @@
  1. config files: rest\_ts\_extraction\_config\_*_brainnetome.m 
  2. main script: read\_ts\_extraction\_dev.m
 
-<br> 
+ 
 ### DNN classification (scripts under dnn/)
 
 1. utility functions: utilityFunctions.py 
@@ -26,7 +26,7 @@
 
    
    
-<br>    
+    
 ### Consensus analysis (scripts under dnn/)
 
 In consensus analysis, we split data into 5 folds for 100 times, repeated analysis for each CV dataset (training on HCP Session 1 or 3 and then extracting individual fingerprints using the trained models), and finally gathered all fingerprints from the 100 runs and identified consensus features (top features that consistently appeared across all folds)
@@ -66,7 +66,7 @@ In consensus analysis, we split data into 5 folds for 100 times, repeated analys
 14. generate brain plots of Leipzig consensus features: generate\_consensus\_images.m
 
 
-<br>  
+  
 ### Individual fingerprints (scripts under dnn/)
 
 1. generate nifti files of top features for each individual: generate\_indiv\_niftis.py for HCP cohort and generate\_nki\_indiv\_niftis.py for NKI-RS cohort
@@ -85,7 +85,7 @@ In consensus analysis, we split data into 5 folds for 100 times, repeated analys
 
 7. stability of fingerprints: stability\_fingerprint.py
     
-<br>   
+  
 ### Control analyses 
 
 1. control analysis examining the relationship between head movement and brain features underlying sex classification: dnn/control\_analysis\_dcor2.py
@@ -96,7 +96,7 @@ In consensus analysis, we split data into 5 folds for 100 times, repeated analys
     - same DNN classification scripts were applied to time series extracted using the scripts here
 
     
-<br>    
+  
 ### Brain-behavioral analysis (scripts under cca/)
 1. brain-behavioral analysis using individual-level stDNN features attributions (fingerprints) and 3 PCs derived from NIH toolbox congnition measures
     - mycca\_brain\_behav\_cognition\_PCversion.R is used for brain-behavioral CCA
@@ -105,7 +105,7 @@ In consensus analysis, we split data into 5 folds for 100 times, repeated analys
     - myRFunc\_updated.R includes all supporting functions
 
 
-<br>
+
 ### Conventional ML approaches (scripts under staticFC/)
 1. classification using conventrional machine learning approaches
     - classicML\_staticFC\_gender\_multiple.py for HCP and NKI-RS cohorts 
