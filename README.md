@@ -1,5 +1,11 @@
-## This document summarizes key steps and corresponding scripts used for the analyses in the DNN gender study
+##**This work is license under [MIT License](https://choosealicense.com/licenses/mit/)** 
 
+### Cite this work
+#### Ryali, S., Zhang, Y., de los Angeles, C., Superkar, K., & Menon, V. (In Press). Deep learning models reveal replicable, generalizable, and behaviorally relevant sex differences in human functional brain organization. <em>The proceedings of the National Academy of Sciences. </em>
+--
+
+
+## Key steps and corresponding scripts used for the analyses are summarized below
 ### Time series extraction
  
  The extracted time series were used as inputs of DNN (scripts under timeseries_extraction/)
