@@ -2,7 +2,7 @@
 
 ### Cite this work
 #### Ryali, S., Zhang, Y., de los Angeles, C., Superkar, K., & Menon, V. (In Press). Deep learning models reveal replicable, generalizable, and behaviorally relevant sex differences in human functional brain organization. <em>The proceedings of the National Academy of Sciences. </em>
---
+
 
 
 ## Key steps and corresponding scripts used for the analyses are summarized below
