@@ -1,7 +1,8 @@
-## This work is licensed under [MIT License](https://choosealicense.com/licenses/mit/) 
+### “Deep learning models reveal replicable, generalizable, and behaviorally relevant sex differences in human functional brain organization.” © 2023 by The Board of Trustees of the Leland Stanford Junior University is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
+### Contact the Stanford Office of Technology Licensing (otl.stanford.edu) for commercial license inquiries
 
 ### Cite this work
-#### Ryali, S., Zhang, Y., de los Angeles, C., Superkar, K., & Menon, V. (In Press). Deep learning models reveal replicable, generalizable, and behaviorally relevant sex differences in human functional brain organization. <em>The proceedings of the National Academy of Sciences. </em>
+#### Ryali, S., Zhang, Y., de los Angeles, C., Superkar, K., & Menon, V. (2024). Deep learning models reveal replicable, generalizable, and behaviorally relevant sex differences in human functional brain organization. <em>The proceedings of the National Academy of Sciences. </em>
 
 
 
