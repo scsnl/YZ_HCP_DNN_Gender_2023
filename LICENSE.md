@@ -1,4 +1,4 @@
-## CC BY-NC 4.0 License
+## [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
 
 <b> Copyright (c) 2023 by The Board of Trustees of the Leland Stanford Junior University
 
